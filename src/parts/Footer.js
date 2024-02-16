@@ -11,9 +11,9 @@ export default function Footer() {
         {/* <!-- BillBox - start --> */}
         <div class="mb-4 lg:-mt-2">
           <a href="/" class="inline-flex items-center gap-2 text-xl font-bold text-gray-600 md:text-2xl" aria-label="BillBox">
-          <img src={logo} alt="" width={50}/>
+          <img src={logo} alt="" width={100}/>
 
-billbox
+
           </a>
         </div>
         {/* <!-- BillBox - end --> */}
@@ -55,19 +55,19 @@ billbox
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Overview</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Overview</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Solutions</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Solutions</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Pricing</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Pricing</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Customers</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Customers</a>
           </div>
         </nav>
       </div>
@@ -79,23 +79,23 @@ billbox
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">About</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">About</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Investor Relations</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Investor Relations</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Jobs</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Jobs</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Press</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Press</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Blog</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Blog</a>
           </div>
         </nav>
       </div>
@@ -107,19 +107,19 @@ billbox
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Contact</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Contact</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Documentation</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Documentation</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Chat</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Chat</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">FAQ</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">FAQ</a>
           </div>
         </nav>
       </div>
@@ -129,21 +129,21 @@ billbox
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Terms of Service</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Terms of Service</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Privacy Policy</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Privacy Policy</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Cookie settings</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-sky-500 active:text-indigo-600">Cookie settings</a>
           </div>
         </nav>
       </div>
     </div>
 
-    <div class="border-t border-gray-800 py-8 text-center text-sm text-gray-400">© 2021 - Present Flowrift. All rights reserved.</div>
+    <div class="border-t border-gray-800 py-8 text-center text-sm text-gray-400">© 2024 - HelpLink. All rights reserved.</div>
   </footer>
 </div>
     </>
