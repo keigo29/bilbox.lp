@@ -17,7 +17,9 @@ export default function Feature() {
       {/* <!-- quote - start --> */}
       <div class="flex flex-col items-center gap-4 sm:px-4 md:gap-6 lg:px-8">
         <div class='subpixel-antialiased text-green-500 font-bold text-4xl   shadow-green-500/6\50'>01</div>
-        <div class="text-center text-gray-600 ">“This is a section of some simple filler text, also known as placeholder text.”</div>
+        <div class="text-center text-gray-600 ">
+        クラウド管理で<br/>いつでもどこでも編集可能
+          </div>
         <div class="w-40">
             <img src={fone} alt="" />
         </div>
@@ -28,7 +30,7 @@ export default function Feature() {
       <!-- quote - start --> */}
       <div class="flex flex-col items-center gap-4 sm:px-4 md:gap-6 lg:px-8">
       <div class='subpixel-antialiased text-green-500 font-bold text-4xl  ' >02</div>
-        <div class="text-center text-gray-600 ">“This is a section of some simple filler text, also known as placeholder text.”</div>
+        <div class="text-center text-gray-600 ">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</div>
         <div class="w-24">
             <img src={ftwo} alt="" />
         </div>
@@ -39,7 +41,7 @@ export default function Feature() {
       <!-- quote - start --> */}
       <div class="flex flex-col items-center gap-4 sm:px-4 md:gap-6 lg:px-8">
       <div class='subpixel-antialiased text-green-500 font-bold text-4xl '>03</div>
-        <div class="text-center text-gray-600 ">“This is a section of some simple filler text, also known as placeholder text.”</div>
+        <div class="text-center text-gray-600 ">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</div>
         <div class="w-24">
             <img src={ftwo} alt="" />
         </div>

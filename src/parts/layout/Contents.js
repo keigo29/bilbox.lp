@@ -9,7 +9,7 @@ export default function Contents() {
     <div class="mb-10 md:mb-16">
       <h2 class="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">BillBoxの主な機能</h2>
 
-      <p class="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>
+      <p class="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</p>
     </div>
     {/* <!-- text - end --> */}
 
@@ -22,8 +22,8 @@ export default function Contents() {
           </svg>
         </div>
 
-        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">Growth</h3>
-        <p class="mb-2 text-center text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</h3>
+        <p class="mb-2 text-center text-gray-500">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</p>
         <a href="#" class="font-bold text-green-500 transition duration-100 hover:text-green-600 active:text-green-700">More</a>
       </div>
       {/* <!-- feature - end -->
@@ -36,8 +36,8 @@ export default function Contents() {
           </svg>
         </div>
 
-        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">Security</h3>
-        <p class="mb-2 text-center text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</h3>
+        <p class="mb-2 text-center text-gray-500">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</p>
         <a href="#" class="font-bold text-green-500 transition duration-100 hover:text-green-600 active:text-green-700">More</a>
       </div>
       {/* <!-- feature - end -->
@@ -50,8 +50,8 @@ export default function Contents() {
           </svg>
         </div>
 
-        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">Cloud</h3>
-        <p class="mb-2 text-center text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</h3>
+        <p class="mb-2 text-center text-gray-500">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</p>
         <a href="#" class="font-bold text-green-500 transition duration-100 hover:text-green-600 active:text-green-700">More</a>
       </div>
       {/* <!-- feature - end -->
@@ -64,8 +64,8 @@ export default function Contents() {
           </svg>
         </div>
 
-        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">Speed</h3>
-        <p class="mb-2 text-center text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</h3>
+        <p class="mb-2 text-center text-gray-500">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</p>
         <a href="#" class="font-bold text-green-500 transition duration-100 hover:text-green-600 active:text-green-700">More</a>
       </div>
       {/* <!-- feature - end -->
@@ -78,8 +78,8 @@ export default function Contents() {
           </svg>
         </div>
 
-        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">Support</h3>
-        <p class="mb-2 text-center text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</h3>
+        <p class="mb-2 text-center text-gray-500">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</p>
         <a href="#" class="font-bold text-green-500 transition duration-100 hover:text-green-600 active:text-green-700">More</a>
       </div>
       {/* <!-- feature - end -->
@@ -92,8 +92,8 @@ export default function Contents() {
           </svg>
         </div>
 
-        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">Dark Mode</h3>
-        <p class="mb-2 text-center text-gray-500">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <h3 class="mb-2 text-center text-lg font-semibold md:text-xl">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</h3>
+        <p class="mb-2 text-center text-gray-500">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</p>
         <a href="#" class="font-bold text-green-500 transition duration-100 hover:text-green-600 active:text-green-700">More</a>
       </div>
       {/* <!-- feature - end --> */}

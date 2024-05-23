@@ -18,7 +18,9 @@ billbox
         </div>
         {/* <!-- BillBox - end --> */}
 
-        <p class="mb-6 text-gray-400 sm:pr-8">Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <p class="mb-6 text-gray-400 sm:pr-8">
+          サンプルテキストサンプルテキストサンプルテキストサンプルテキスト
+        </p>
 
         {/* <!-- social - start --> */}
         <div class="flex gap-4">
@@ -51,23 +53,23 @@ billbox
 
      
       <div>
-        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Products</div>
+        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</div>
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Overview</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Solutions</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Pricing</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Customers</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
         </nav>
       </div>
@@ -75,27 +77,27 @@ billbox
 
       {/* <!-- nav - start --> */}
       <div>
-        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Company</div>
+        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</div>
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">About</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Investor Relations</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Jobs</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Press</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Blog</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
         </nav>
       </div>
@@ -103,47 +105,50 @@ billbox
 
       {/* <!-- nav - start --> */}
       <div>
-        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Support</div>
+        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</div>
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Contact</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Documentation</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Chat</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">FAQ</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
         </nav>
       </div>
      
       <div>
-        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">Legal</div>
+        <div class="mb-4 font-bold uppercase tracking-widest text-gray-100">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</div>
 
         <nav class="flex flex-col gap-4">
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Terms of Service</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Privacy Policy</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
 
           <div>
-            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">Cookie settings</a>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
+          </div>
+          <div>
+            <a href="#" class="text-gray-400 transition duration-100 hover:text-green-500 active:text-indigo-600">サンプルテキストサンプルテキストサンプルテキストサンプルテキスト</a>
           </div>
         </nav>
       </div>
     </div>
 
-    <div class="border-t border-gray-800 py-8 text-center text-sm text-gray-400">© 2021 - Present Flowrift. All rights reserved.</div>
+    <div class="border-t py-4 text-center text-sm text-gray-400"></div>
   </footer>
 </div>
     </>
