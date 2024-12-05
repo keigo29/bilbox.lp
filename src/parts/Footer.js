@@ -13,7 +13,7 @@ export default function Footer() {
           <a href="/" class="inline-flex items-center gap-2 text-xl font-bold text-gray-600 md:text-2xl" aria-label="BillBox">
           <img src={logo} alt="" width={50}/>
 
-billbox
+billbox 
           </a>
         </div>
         {/* <!-- BillBox - end --> */}

@@ -9,7 +9,6 @@ export default function Main() {
       <Feature/>
       <Mention/>
       <Contents/>
-  
     </main>
   )
 }
